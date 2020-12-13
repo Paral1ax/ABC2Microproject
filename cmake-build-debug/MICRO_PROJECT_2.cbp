@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MICRO_PROJECT_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/CLion/MICRO_PROJECT_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/CLion/MICRO_PROJECT_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="C:/CLion/MICRO_PROJECT_2/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/CLion/MICRO_PROJECT_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="C:/CLion/MICRO_PROJECT_2/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/CLion/MICRO_PROJECT_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MICRO_PROJECT_2">
+				<Option output="C:/CLion/MICRO_PROJECT_2/cmake-build-debug/MICRO_PROJECT_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/CLion/MICRO_PROJECT_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 MICRO_PROJECT_2"/>
+					<CompileFile command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MICRO_PROJECT_2/fast">
+				<Option output="C:/CLion/MICRO_PROJECT_2/cmake-build-debug/MICRO_PROJECT_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/CLion/MICRO_PROJECT_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGw/MinGw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 MICRO_PROJECT_2/fast"/>
+					<CompileFile command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/CLion/MICRO_PROJECT_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGw/MinGw/mingw32/bin/mingw32-make.exe -f &quot;C:/CLion/MICRO_PROJECT_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/CLion/MICRO_PROJECT_2/main.cpp">
+			<Option target="main"/>
+			<Option target="MICRO_PROJECT_2"/>
+		</Unit>
+		<Unit filename="C:/CLion/MICRO_PROJECT_2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

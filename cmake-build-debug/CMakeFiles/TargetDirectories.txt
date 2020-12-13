@@ -1,0 +1,4 @@
+C:/CLion/MICRO_PROJECT_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLion/MICRO_PROJECT_2/cmake-build-debug/CMakeFiles/main.dir
+C:/CLion/MICRO_PROJECT_2/cmake-build-debug/CMakeFiles/MICRO_PROJECT_2.dir
+C:/CLion/MICRO_PROJECT_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

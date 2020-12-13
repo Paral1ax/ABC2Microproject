@@ -1,0 +1,3 @@
+"C:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MICRO_PROJECT_2.dir/objects.a
+C:\MinGw\MinGw\mingw32\bin\ar.exe cr CMakeFiles\MICRO_PROJECT_2.dir/objects.a @CMakeFiles\MICRO_PROJECT_2.dir\objects1.rsp
+C:\MinGw\MinGw\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\MICRO_PROJECT_2.dir/objects.a -Wl,--no-whole-archive  -o MICRO_PROJECT_2.exe -Wl,--out-implib,libMICRO_PROJECT_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MICRO_PROJECT_2.dir\linklibs.rsp

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLion/MICRO_PROJECT_2/main.cpp
+iostream
+-
+string
+C:/CLion/MICRO_PROJECT_2/string
+thread
+-
+mutex
+-
+
